@@ -29,7 +29,7 @@ peso = 75.43
 
 ```python
 nome = 'João'  # String pode conter aspas duplas ou aspas simples
-nome_completo = 'Joao Vitor'
+nome_completo = "Joao Vitor"
 ```
 
 - Boolean (bool): Tipo de dado lógico que pode assumir apenas dois valores: falso ou verdadeiro (False ou True em Python). Exemplo: `True` ou `False`:
