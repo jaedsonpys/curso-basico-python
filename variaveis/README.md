@@ -9,6 +9,14 @@ Geralmente, as variáveis são necessárias para evitar a **repetição de infor
 nome = 'João'
 ```
 
+## Nomenclatura
+
+Em várias linguagens de programação existem regras para o **nome da variável**. No Python não é diferente, as regras para nomear uma variável são:
+
+1. O nome da variável **NÃO PODE** começar com um número;
+2. Caracteres que não são letras e não são número **NÃO PODEM** ser utilizados (exceto *underline*);
+3. O nome da variável **NÃO PODE** conter espaços, use o ***underline (_)*** para separar palavras.
+
 ## Tipos de dados simples
 
 O Python possui quatro tipos simples de dados:
