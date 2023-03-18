@@ -1,13 +1,15 @@
-# Variáveis
+# Variáveis, tipos de dados e a função `print()`
 
 Imagine uma caixa de sapato, nessa caixa, você pode **guardar qualquer objeto** e escrever na caixa o nome do objeto que está ali dentro. Da mesma forma, uma variável é um *espaço na memória* do computador que pode conter qualquer valor, desde caracteres, números e valores mais complexos. As variáveis só ficam disponíveis **enquanto o programa está sendo executado**, ou seja, são destruídas quando o programa é encerrado.
 
-Geralmente, as variáveis são necessárias para evitar a **repetição de informações** ou quando você irá precisar de um valor várias vezes no seu código. No Python, as variáveis são criadas da seguinte forma:
+Geralmente, as variáveis são necessárias quando você irá precisar de um valor várias vezes no seu código. No Python, as variáveis são criadas da seguinte forma:
 
 ```python
-# <nome_da_variavel> = <valor_da_variavel>
 nome = 'João'
+idade = 13
 ```
+
+No exemplo acima, criamos duas variáveis: uma chamada `nome` e outra chamada `idade`. Criar uma variável é bem simples, você só precisa definir o nome da variável e seu valor, utilizando essa estrutura: `<nome> = <valor>`.
 
 ## Nomenclatura
 
@@ -36,7 +38,8 @@ peso = 75.43
 - String (str): É um conjunto de caracteres dispostos numa determinada ordem, geralmente utilizada para representar palavras, frases ou textos:
 
 ```python
-nome = 'João'  # String pode conter aspas duplas ou aspas simples
+# String pode conter aspas duplas ou aspas simples
+nome = 'João'
 nome_completo = "Joao Vitor"
 ```
 
@@ -49,7 +52,7 @@ aprovado = False
 
 ## Exibindo valores na tela
 
-O Python possui uma função nativa (ou seja, uma funcionalidade que já vem no Python) chamada `print()`, que exibe valores na tela, seja string, número inteiro, número decimal ou booleano, além de exibir outros tipos de dados. Essa função pode ser usada de duas formas:
+O Python possui uma função embutida (ou seja, uma funcionalidade que já vem no Python) chamada `print()`, que exibe valores na tela, seja string, número inteiro, número decimal ou booleano, além de exibir outros tipos de dados. Essa função pode ser usada de duas formas:
 
 1. A primeira é imprimindo o valor de uma variável. A função `print()` irá exibir o valor da variável:
 
