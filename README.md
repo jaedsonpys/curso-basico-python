@@ -5,3 +5,4 @@ Este repositório armazena conteúdos em texto e códigos de exemplo para cada c
 ## Aulas
 
 1. [Variáveis, tipos de dados e função `print()`](https://github.com/jaedsonpys/curso-basico-python/tree/master/variaveis)
+2. [Entrada de dados e conversão de valores](https://github.com/jaedsonpys/curso-basico-python/tree/master/entrada-de-dados)
