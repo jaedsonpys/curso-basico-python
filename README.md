@@ -8,6 +8,7 @@ Este repositório armazena conteúdos em texto e códigos de exemplo para cada c
 2. [Variáveis, tipos de dados e função `print()`](https://github.com/jaedsonpys/curso-basico-python/tree/master/variaveis)
 3. [Entrada de dados e conversão de valores](https://github.com/jaedsonpys/curso-basico-python/tree/master/entrada-de-dados)
 4. [Operadores aritméticos](https://github.com/jaedsonpys/curso-basico-python/tree/master/operadores-aritmeticos)
+5. [Operadores de comparação](https://github.com/jaedsonpys/curso-basico-python/tree/master/operadores-de-comparacao)
 
 ## Cursos gratuitos de Python
 
