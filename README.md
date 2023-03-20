@@ -9,6 +9,7 @@ Este repositório armazena conteúdos em texto e códigos de exemplo para cada c
 3. [Entrada de dados e conversão de valores](https://github.com/jaedsonpys/curso-basico-python/tree/master/entrada-de-dados)
 4. [Operadores aritméticos](https://github.com/jaedsonpys/curso-basico-python/tree/master/operadores-aritmeticos)
 5. [Operadores de comparação](https://github.com/jaedsonpys/curso-basico-python/tree/master/operadores-de-comparacao)
+6. [Condições](https://github.com/jaedsonpys/curso-basico-python/tree/master/condicoes)
 
 ## Cursos gratuitos de Python
 
