@@ -23,7 +23,7 @@ print(alunos)  # exibindo TODOS os valores
 print(alunos[0])  # exibindo APENAS o primeiro valor da lista
 ```
 
-Como dito anteriormente, a "numeração" dos valores de uma lista sempre começam com 0, então, se quisermos exibir o valor *'Jaedson'*, usamos o index 0. Para obter apenas um valor da lista utilizando o index, utilizamos colchetes (`[]`) e adicionamos o index entre os colchetes, por exemplo: `alunos[0]`, isso irá retornar o valor localizado na posição indicada.
+Como dito anteriormente, a "numeração" dos valores de uma lista sempre começam com 0, então, se quisermos exibir o valor *'Jaedson'*, usamos o index 0. Para obter apenas um valor da lista utilizando o index, utilizamos colchetes (`[]`) e adicionamos o index entre os colchetes, por exemplo: `alunos[0]`, isso irá retornar o valor localizado na posição indicada, que nesse caso é "Jaedson".
 
 ## Adicionando valores a uma lista
 
